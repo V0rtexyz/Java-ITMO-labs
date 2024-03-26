@@ -1,0 +1,48 @@
+[
+  {
+    "price": 1.0,
+    "person": {
+      "birthday": "1111-11-11",
+      "location": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "passportID": "1",
+      "height": 1
+    },
+    "name": "1",
+    "coordinates": {
+      "x": 1.0,
+      "y": 1
+    },
+    "discount": -1.0,
+    "comment": "1",
+    "id": 1,
+    "creationDate": "2024-03-21T13:50:45.670558400",
+    "type": "VIP"
+  },
+  {
+    "price": 1.0,
+    "person": {
+      "birthday": "1111-11-11",
+      "location": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "passportID": "1",
+      "height": 1
+    },
+    "name": "1",
+    "coordinates": {
+      "x": 1.0,
+      "y": 1
+    },
+    "discount": 1.0,
+    "comment": "1",
+    "id": 2,
+    "creationDate": "2024-03-21T14:51:38.481717300",
+    "type": "VIP"
+  }
+]
